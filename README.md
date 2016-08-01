@@ -5,7 +5,7 @@ CountdownLatch for C++ multi-threaded programming
 
 -----------------------
 countdownlatch is a C++ library providing similar functionalities as availble with standard Java
-CountDown class. It's main usage is: it allows one or more threads to wait until a set of
+CountdownLatch class. It's main usage is: it allows one or more threads to wait until a set of
 operations being performed on other threads completes.
 
 
